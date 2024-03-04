@@ -1,0 +1,1 @@
+We shall extend the plugin to achieve isometric perspective change.
